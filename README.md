@@ -2,7 +2,7 @@
 
 ## Apa itu Toko Online?
 
-Web Toko Online yang dibuat oleh <a href="https://github.com/adhiariyadi"> Adhi Ariyadi </a>. **Toko Online adalah Website penjualan secara online untuk seseorang yang inggin membeli suatu produk melalui website dengan mudah.**
+Web Toko Online yang dibuat oleh <a href="https://github.com/ardy99"> Ardy </a>. **Toko Online adalah Website penjualan secara online untuk seseorang yang inggin membeli suatu produk melalui website dengan mudah.**
 
 ## Fitur apa saja yang tersedia di Toko Online?
 
@@ -17,7 +17,7 @@ Web Toko Online yang dibuat oleh <a href="https://github.com/adhiariyadi"> Adhi 
 
 **Release date : 28 Apr 2020**
 
-> Toko Online merupakan project open source yang dibuat oleh Adhi Ariyadi. Kalian dapat download/fork/clone. Cukup beri stars di project ini agar memberiku semangat. Terima kasih!
+> Toko Online merupakan project open source yang dibuat oleh Ardy. Kalian dapat download/fork/clone. Cukup beri stars di project ini agar memberiku semangat. Terima kasih!
 
 ---
 
@@ -26,7 +26,7 @@ Web Toko Online yang dibuat oleh <a href="https://github.com/adhiariyadi"> Adhi 
 1. **Clone Repository**
 
 ```bash
-git clone https://github.com/adhiariyadi/Toko-Online-Laravel.git
+git clone [https://github.com/ardy99/Online-Shop.git]
 cd Toko-Online-Laravel
 composer install
 cp .env.example .env
@@ -56,8 +56,7 @@ php artisan serve
 
 ## Author
 
--   Facebook : <a href="https://web.facebook.com/adhiariyadi.me/"> Adhi Ariyadi</a>
--   LinkedIn : <a href="https://www.linkedin.com/in/adhiariyadi/"> Adhi Ariyadi</a>
+
 
 ## Contributing
 
@@ -66,5 +65,4 @@ Jangan ragu untuk memeriksa halaman masalah jika Anda ingin berkontribusi. **Ber
 
 ## License
 
--   Copyright © 2020 Adhi Ariyadi.
 -   **Toko Online is open-sourced software licensed under the MIT license.**
